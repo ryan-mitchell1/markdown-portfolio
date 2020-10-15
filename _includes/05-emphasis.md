@@ -1,0 +1,2 @@
+*italic*
+__bold__
